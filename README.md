@@ -8,7 +8,7 @@
 ```javascript
 const ian = {
     linguagens_faladas: ["Inglês", "Português"],
-    linguagens: ["TypeScript", "Javascript", "Python", "Java"],
+    linguagens: ["TypeScript", "Javascript", "Python", "Java", "PhP"],
     formacao: {
             ensino_medio: {
                 escola: "IFC Campus Araquari",
